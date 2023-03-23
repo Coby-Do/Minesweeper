@@ -55,7 +55,7 @@ By following the MVC design pattern, the code is organized, modular, and easy to
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, or distribute the code as needed.
+This project is released under the MIT License. Please see the 'LICENSE' file for more information.
 
 ## Acknowledgements
 
