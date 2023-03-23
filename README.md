@@ -48,7 +48,7 @@ python msMain.py
 This Minesweeper implementation follows the Model-View-Controller (MVC) design pattern, which separates the application into three interconnected components:
 
 - Model (**msModel.py**): Represents the game logic, including the Minesweeper board state, handling moves, checking for wins, and revealing empty cells.
-- View (**msMain.py**, **msWindow** class): Represents the user interface, including the grid of buttons, move counter, bomb display, and menu bar.
+- View (**msMain.py**, **Minesweeper_Window** class): Represents the user interface, including the grid of buttons, move counter, bomb display, and menu bar.
 - Controller (**msMain.py**, event handling functions): Handles user input, such as button clicks, and communicates between the model and view to update the game state and display.
 
 By following the MVC design pattern, the code is organized, modular, and easy to maintain or extend with new features.
